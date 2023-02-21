@@ -41,8 +41,11 @@ License
 There are some presets included to make easier to call, they are:
 
 <span style="color:red; font-weight:bold;">pRed</span>('Your Text Here') #print a text with font-color red and bold: true;
+
 <span style="color:green; font-weight:bold;">pGreen</span>('Your Text Here') #print a text with font-color green and bold: true;
+
 <span style="color:yellow; font-weight:bold;">pYellow</span>('Your Text Here') #print a text with font-color yellow and bold: false;
+
 <span style="color:cyan; font-weight:bold;">pCyan</span>('Your Text Here') #print a text with font-color cyan and bold: true;
 
 This project is licensed under the MIT License - see the LICENSE file for details.
